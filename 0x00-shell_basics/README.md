@@ -1,1 +1,2 @@
-shell basics README.md file
+
+shell basics script 
